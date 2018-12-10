@@ -1,20 +1,9 @@
-title = "Yo-kai Watch 3"
-description = "Yo-kai Watch 3 is a three-part role-playing game series from the third generation of the Yo-kai Watch series of video games, and was developed and published by Level-5. It was released as two seperate games subtitled Sushi and Tempura. An updated version subtitled Sukiyaki was released later."
-incomplete = true
+title = "Yo-Kai Watch 3"
+description = "Yo-Kai Watch 3, developed and published by Level-5, is an RPG with heavy Pokémon influences centered around two main protagonists, Nate and Hailey, who combine their forces along the help of their befriended Yokais to fight a common threat."
 needs_system_files = false
-needs_shared_font = true
+needs_shared_font = false
 
 [[releases]]
-title = "0004000000191000"
-region = "jpn"
-release_date = "2016-07-16"
-
-[[releases]]
-title = "0004000000191100"
-region = "jpn"
-release_date = "2016-07-16"
-
-[[releases]]
-title = "00040000001AF400"
-region = "jpn"
-release_date = "2016-12-15"
+title = "00040000001D6800"
+region = "eur"
+release_date = "2018-12-07"
